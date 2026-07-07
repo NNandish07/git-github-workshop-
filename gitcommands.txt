@@ -1,0 +1,10 @@
+ git commit -m "added testing files"
+ git status
+ rm testing.py
+ ls
+ git status
+ git restore testing.py
+ ls
+ python3 testing.py
+ clear
+ history
