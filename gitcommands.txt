@@ -8,3 +8,10 @@
  python3 testing.py
  clear
  history
+ it remote add origin
+git remote -v
+git remote set-url origin
+git remote -v
+git push origin master
+git fetch origin master
+ls
